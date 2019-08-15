@@ -9,5 +9,5 @@
 	v2Rayのサーバーが不安定な接続ですが、占用停止です<br>
 	以下はShadowsocksの使用手順です<br>
 
-![](https://fanyi.bdstatic.com/static/translation/img/header/logo_40c4f13.svg)
+![](https://github.githubassets.com/pinned-octocat.svg)
 	　
